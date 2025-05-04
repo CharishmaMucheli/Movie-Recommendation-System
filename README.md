@@ -1,7 +1,6 @@
 
 A machine learning-based movie recommendation system that suggests movies to users based on their preferences using collaborative filtering and content-based techniques. 
 
-Would you like a sample `README.md` section as well (like installation, usage, etc.)?
 In today’s fast-paced world, where individuals are constantly juggling numerous responsibilities within the confines of 24 hours, recommendation systems have emerged as essential tools. These systems help people make smarter, faster decisions by reducing the cognitive effort required to sift through an overwhelming number of options.
 
 At their core, recommendation systems are designed to identify and suggest content that aligns with an individual's preferences. They achieve this by analyzing various factors to curate personalized lists of relevant and engaging items. These systems leverage Artificial Intelligence to evaluate vast datasets and generate recommendations tailored to each user. Inputs such as a person’s profile, browsing or search history, behavior of similar users, and even predicted preferences are considered to deliver accurate suggestions. Techniques such as predictive modeling and heuristic analysis play a central role in this process.
@@ -43,3 +42,8 @@ How it Works: These systems might integrate user demographics, item content, and
 Advantages: Provide more balanced and diverse recommendations, improve accuracy, and address issues like cold start and over-specialization.
 
 Use Today: Most modern recommendation systems in large-scale applications (e.g., Netflix, Amazon, Spotify) are hybrid in nature.
+
+ You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.200.173:8501
